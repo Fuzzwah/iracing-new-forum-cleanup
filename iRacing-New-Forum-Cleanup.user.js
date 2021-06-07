@@ -1,9 +1,9 @@
 // ==UserScript==
 // @namespace     http://www.fuzzwahracing.com/p/new-forum-cleanup.html
-// @name          iRacing My Results Highlighter
-// @description   Highlights the rows of your, and optionally other selected drivers, in the iRacing event results table
+// @name          iRacing New Forum Cleanup
+// @description   Makes tweaks to the design of the new iRacing forums to improve readablity
 // @include       *://forums.iracing.com/*
-// @version       2.21.06.08.02
+// @version       2.21.06.08.03
 // @author        fuzzwah
 // @copyright     2021+, fuzzwah (https://github.com/fuzzwah)
 // @license       MIT; https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/LICENSE
