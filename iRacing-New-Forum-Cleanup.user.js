@@ -3,10 +3,10 @@
 // @name          iRacing My Results Highlighter
 // @description   Highlights the rows of your, and optionally other selected drivers, in the iRacing event results table
 // @include       *://forums.iracing.com/*
-// @version       2.21.06.08.01
+// @version       2.21.06.08.02
 // @author        fuzzwah
 // @copyright     2021+, fuzzwah (https://github.com/fuzzwah)
-// @license       GPL3; https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/LICENSE
+// @license       MIT; https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/LICENSE
 // @homepageURL   http://www.fuzzwahracing.com/p/results-highlighter.html
 // @updateURL     https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/iRacing-New-Forum-Cleanup.user.js
 // ==/UserScript==
