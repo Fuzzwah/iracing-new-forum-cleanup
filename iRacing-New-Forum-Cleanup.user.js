@@ -3,7 +3,7 @@
 // @name          iRacing New Forum Cleanup
 // @description   Makes tweaks to the design of the new iRacing forums to improve readablity
 // @include       *://forums.iracing.com/*
-// @version       2.21.06.08.07
+// @version       2.21.06.08.08
 // @author        fuzzwah
 // @copyright     2021+, fuzzwah (https://github.com/fuzzwah)
 // @license       MIT; https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/LICENSE
