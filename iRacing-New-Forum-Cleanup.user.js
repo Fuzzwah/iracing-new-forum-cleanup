@@ -3,11 +3,11 @@
 // @name          iRacing New Forum Cleanup
 // @description   Makes tweaks to the design of the new iRacing forums to improve readablity
 // @include       *://forums.iracing.com/*
-// @version       2.21.06.08.06
+// @version       2.21.06.08.07
 // @author        fuzzwah
 // @copyright     2021+, fuzzwah (https://github.com/fuzzwah)
 // @license       MIT; https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/LICENSE
-// @homepageURL   http://www.fuzzwahracing.com/p/results-highlighter.html
+// @homepageURL   http://www.fuzzwahracing.com/p/new-forum-cleanup.html
 // @updateURL     https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/iRacing-New-Forum-Cleanup.user.js
 // ==/UserScript==
 
