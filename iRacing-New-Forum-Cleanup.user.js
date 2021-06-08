@@ -3,7 +3,7 @@
 // @name          iRacing New Forum Cleanup
 // @description   Makes tweaks to the design of the new iRacing forums to improve readablity
 // @include       *://forums.iracing.com/*
-// @version       2.21.06.08.08
+// @version       2.21.06.08.09
 // @author        fuzzwah
 // @copyright     2021+, fuzzwah (https://github.com/fuzzwah)
 // @license       MIT; https://raw.githubusercontent.com/fuzzwah/iracing-new-forum-cleanup/master/LICENSE
@@ -25,3 +25,6 @@ addGlobalStyle('div.Item-Header {background: #3c3e44 !important; padding: 10px !
 addGlobalStyle('.AuthorInfo {display: inline !important; float: left !important; text-align: right !important; margin-top: -20px !important;}');
 addGlobalStyle('.Section-Discussion ::after {display: none !important;}');
 addGlobalStyle('div.Reactions {display: none !important;}');
+addGlobalStyle('.pageBoxNoCompat {padding: 5px !important;}');
+addGlobalStyle('.pageBoxNoCompat p {display: none !important;}');
+addGlobalStyle('.css-1y7hzf3-ListItem-styles-mediaWrapContainer {margin-top: -10px !important;}');
